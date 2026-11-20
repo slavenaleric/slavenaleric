@@ -7,4 +7,4 @@ Computer Science graduate (FERIT Osijek) focused on **QA automation, data scienc
   - **QA & Cloud:** Playwright, Appium, Selenium, Maven, Jenkins, Microsoft Azure & Azure Pipelines
   - **Data & Web:** Pandas, NumPy, D3.js, Chart.js, p5.js, HTML/CSS
   
-- 📫 **Contact:** [LinkedIn](https://linkedin.com/in/slaven-a-57708011a) • [Email](mailto:slavenaleric1@gmail.com) 📫
+- 📫 **Contact:** [LinkedIn](https://linkedin.com/in/slaven-a-57708011a)   • Email: slavenaleric1@gmail.com 📫

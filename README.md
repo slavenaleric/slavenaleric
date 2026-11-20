@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Slaven 👋
 
-<!--
-**slavenaleric/slavenaleric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate (FERIT Osijek) focused on **QA automation, database science and web design**. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  **Tech Stack & Tools:**
+  - **Languages & Querying:** Python, Java, JavaScript / TypeScript, SQL (PostgreSQL, Oracle, MySQL), Cypher (Neo4j)
+  - **QA & Automation:** Playwright, Appium, Selenium, Jenkins, Jira
+  - **Data & Web:** Pandas, NumPy, D3.js, HTML/CSS
+-  **Featured Work:**
+  - Database performance benchmarking (Relational / EAV vs. Graph models in PostgreSQL & Neo4j)
+  - Automated end-to-end & mobile testing frameworks
+  - Custom browser utilities and interactive data dashboards
+- 📫 **Get in touch:** [LinkedIn](https://linkedin.com/in/slaven-a-57708011a) • [Email](mailto:slavenaleric1@gmail.com)
